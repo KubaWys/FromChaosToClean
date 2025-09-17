@@ -119,4 +119,25 @@ Uses SQLite with tables:
 - [ ] Complete test coverage
 - [ ] API documentation
 
+# Flask Python Service
+
+## Setup
+```sh
+pip install -r requirements.txt
+```
+
+## Run
+```sh
+python app.py
+```
+
+## Test
+```sh
+pytest
+```
+
+## Security
+- Secret key is hardcoded for demo. Use environment variables in production.
+- CORS is enabled for all origins for demo. Restrict in production.
+
 Remember: The goal is to make this service work seamlessly with the Express backend while maintaining Python best practices!

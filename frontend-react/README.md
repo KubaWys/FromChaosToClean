@@ -129,3 +129,20 @@ This is also a chance to implement a proper design system:
 - Dark/light theme support (bonus!)
 
 Remember: The goal is not just to fix the problems, but to showcase how Copilot can help you build a production-quality React TypeScript application from chaos!
+
+# React Frontend
+
+## Setup
+```sh
+npm install
+```
+
+## Run
+```sh
+npm start
+```
+
+## Test
+```sh
+npm test
+```

@@ -103,4 +103,25 @@ The system comes with some test data:
 - [ ] Complete API documentation
 - [ ] Working authentication and authorization
 
+# Express Backend
+
+## Setup
+```sh
+npm install
+```
+
+## Run
+```sh
+npm start
+```
+
+## Test
+```sh
+npm test
+```
+
+## Security
+- JWT secret is hardcoded for demo. Use environment variables in production.
+- CORS is enabled for all origins for demo. Restrict in production.
+
 Remember: This isn't just about fixing code - it's about learning to collaborate effectively with Copilot!

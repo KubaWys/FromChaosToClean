@@ -1,0 +1,59 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fromchaos-express
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: fromchaos-express
+  template:
+    metadata:
+      labels:
+        app: fromchaos-express
+    spec:
+      containers:
+      - name: express
+        image: fromchaos-express:latest
+        ports:
+        - containerPort: 3001
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fromchaos-flask
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: fromchaos-flask
+  template:
+    metadata:
+      labels:
+        app: fromchaos-flask
+    spec:
+      containers:
+      - name: flask
+        image: fromchaos-flask:latest
+        ports:
+        - containerPort: 5000
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fromchaos-react
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: fromchaos-react
+  template:
+    metadata:
+      labels:
+        app: fromchaos-react
+    spec:
+      containers:
+      - name: react
+        image: fromchaos-react:latest
+        ports:
+        - containerPort: 3000

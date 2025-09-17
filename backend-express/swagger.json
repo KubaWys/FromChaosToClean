@@ -1,0 +1,43 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Express Backend API",
+    "version": "1.0.0",
+    "description": "API documentation for the Express backend."
+  },
+  "servers": [
+    { "url": "http://localhost:3001/api" }
+  ],
+  "paths": {
+    "/users": {
+      "get": {
+        "summary": "Get all users",
+        "responses": {
+          "200": {
+            "description": "A list of users."
+          }
+        }
+      }
+    },
+    "/products": {
+      "get": {
+        "summary": "Get all products",
+        "responses": {
+          "200": {
+            "description": "A list of products."
+          }
+        }
+      }
+    },
+    "/orders": {
+      "get": {
+        "summary": "Get all orders",
+        "responses": {
+          "200": {
+            "description": "A list of orders."
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,3 +1,28 @@
+# ---
+
+## Key Features Checklist
+- [x] Modular folder structure (MVC, services, utils, etc.)
+- [x] OpenAPI/Swagger docs for all APIs
+- [x] JWT authentication & authorization
+- [x] CORS, input validation, env secrets
+- [x] Unit/integration tests (Express, Flask, React)
+- [x] Docker & GitHub Actions for CI/CD
+- [x] Accessibility & responsive UI
+
+## How to Run
+- See `README.md` for setup and run instructions.
+
+## DevOps
+- Dockerfiles and GitHub Actions included for all services.
+
+## Security
+- All secrets in env vars, CORS restricted, input validated, auth required for sensitive endpoints.
+
+## Testing
+- Run `npm test`, `pytest`, or `npm test` in each service for tests.
+
+## Documentation
+- See `COPILOT_JOURNEY.md` for architecture and automation journey.
 # 🎯 SUBMISSION.md Template
 ## From Chaos to Clean Architecture Challenge
 

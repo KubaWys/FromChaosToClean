@@ -1,0 +1,70 @@
+openapi: 3.0.0
+info:
+  title: Python Flask Backend API
+  version: 1.0.0
+  description: API documentation for the Flask backend.
+servers:
+  - url: http://localhost:5000
+paths:
+  /notifications:
+    post:
+      summary: Create a notification
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                user_id:
+                  type: string
+                message:
+                  type: string
+                type:
+                  type: string
+      responses:
+        '201':
+          description: Notification created
+  /notifications/{user_id}:
+    get:
+      summary: Get notifications for a user
+      parameters:
+        - in: path
+          name: user_id
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: List of notifications
+  /analytics/track:
+    post:
+      summary: Track an analytics event
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                event_type:
+                  type: string
+                user_id:
+                  type: string
+                data:
+                  type: object
+      responses:
+        '201':
+          description: Event tracked
+  /analytics/stats/{user_id}:
+    get:
+      summary: Get analytics stats for a user
+      parameters:
+        - in: path
+          name: user_id
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Analytics stats

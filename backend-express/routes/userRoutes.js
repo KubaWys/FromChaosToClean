@@ -55,8 +55,9 @@ router.post("/login", (req, res) => {
             return res.status(401).json({ error: "Invalid credentials" });
         }
         if (bcrypt.compareSync(password, user.password)) {
+            // Use user_id (snake_case) for JWT compatibility with Flask backend
             const token = jwt.sign(
-                { userId: user.id, username: user.username, role: user.role },
+                { user_id: user.id, username: user.username, role: user.role },
                 JWT_SECRET,
                 { expiresIn: "24h" }
             );

@@ -1,0 +1,316 @@
+2025-09-17 14:28:35,359 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:28:35,359 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:28:35,361 [INFO]:  * Restarting with stat
+2025-09-17 14:28:35,708 [WARNING]:  * Debugger is active!
+2025-09-17 14:28:35,710 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:30:16,860 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:30:16,860 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:30:16,861 [INFO]:  * Restarting with stat
+2025-09-17 14:30:17,203 [WARNING]:  * Debugger is active!
+2025-09-17 14:30:17,205 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:30:30,668 [INFO]: GET /notifications/123
+2025-09-17 14:30:30,669 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:30:30] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:30:30,670 [INFO]: GET /analytics/stats/123
+2025-09-17 14:30:30,671 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:30:30] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:30:30,934 [INFO]: GET /notifications/123
+2025-09-17 14:30:30,935 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:30:30] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:30:30,979 [INFO]: GET /analytics/stats/123
+2025-09-17 14:30:30,981 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:30:30] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:32:38,588 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:32:38,589 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:32:38,590 [INFO]:  * Restarting with stat
+2025-09-17 14:32:38,934 [WARNING]:  * Debugger is active!
+2025-09-17 14:32:38,937 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:32:55,023 [INFO]: GET /notifications/123
+2025-09-17 14:32:55,024 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:32:55] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:32:55,025 [INFO]: GET /analytics/stats/123
+2025-09-17 14:32:55,025 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:32:55] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:32:55,289 [INFO]: GET /notifications/123
+2025-09-17 14:32:55,290 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:32:55] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:32:55,338 [INFO]: GET /analytics/stats/123
+2025-09-17 14:32:55,338 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:32:55] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:33:08,727 [INFO]: GET /notifications/123
+2025-09-17 14:33:08,727 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:33:08] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:33:09,033 [INFO]: GET /notifications/123
+2025-09-17 14:33:09,033 [INFO]: GET /analytics/stats/123
+2025-09-17 14:33:09,033 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:33:09] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:33:09,034 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:33:09] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:33:09,346 [INFO]: GET /analytics/stats/123
+2025-09-17 14:33:09,347 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:33:09] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:33:09,765 [INFO]: GET /notifications/123
+2025-09-17 14:33:09,766 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:33:09] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:33:10,069 [INFO]: GET /analytics/stats/123
+2025-09-17 14:33:10,070 [INFO]: GET /notifications/123
+2025-09-17 14:33:10,070 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:33:10] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:33:10,071 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:33:10] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:33:10,383 [INFO]: GET /analytics/stats/123
+2025-09-17 14:33:10,383 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:33:10] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:33:34,483 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:33:34,484 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:33:34,485 [INFO]:  * Restarting with stat
+2025-09-17 14:33:34,821 [WARNING]:  * Debugger is active!
+2025-09-17 14:33:34,824 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:35:27,019 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:35:27,019 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:35:27,020 [INFO]:  * Restarting with stat
+2025-09-17 14:35:27,324 [WARNING]:  * Debugger is active!
+2025-09-17 14:35:27,326 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:35:38,562 [INFO]: GET /notifications/123
+2025-09-17 14:35:38,563 [INFO]: GET /analytics/stats/123
+2025-09-17 14:35:38,563 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:35:38] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:35:38,563 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:35:38] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:35:38,828 [INFO]: GET /notifications/123
+2025-09-17 14:35:38,829 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:35:38] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:35:38,875 [INFO]: GET /analytics/stats/123
+2025-09-17 14:35:38,876 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:35:38] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:36:14,894 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:36:14,894 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:36:14,895 [INFO]:  * Restarting with stat
+2025-09-17 14:36:15,266 [WARNING]:  * Debugger is active!
+2025-09-17 14:36:15,268 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:37:55,985 [INFO]: GET /notifications/123
+2025-09-17 14:37:55,986 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:37:55] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:37:55,987 [INFO]: GET /analytics/stats/123
+2025-09-17 14:37:55,988 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:37:55] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:37:56,254 [INFO]: GET /notifications/123
+2025-09-17 14:37:56,254 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:37:56] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:37:56,299 [INFO]: GET /analytics/stats/123
+2025-09-17 14:37:56,301 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:37:56] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:42:53,344 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:42:53,344 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:42:53,346 [INFO]:  * Restarting with stat
+2025-09-17 14:42:53,661 [WARNING]:  * Debugger is active!
+2025-09-17 14:42:53,664 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:43:16,837 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:43:16,837 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:43:16,839 [INFO]:  * Restarting with stat
+2025-09-17 14:43:17,166 [WARNING]:  * Debugger is active!
+2025-09-17 14:43:17,169 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:43:38,050 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:43:38,050 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:43:38,051 [INFO]:  * Restarting with stat
+2025-09-17 14:43:38,348 [WARNING]:  * Debugger is active!
+2025-09-17 14:43:38,350 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:45:45,755 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:45:45,755 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:45:45,756 [INFO]:  * Restarting with stat
+2025-09-17 14:45:46,137 [WARNING]:  * Debugger is active!
+2025-09-17 14:45:46,141 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:46:48,064 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:46:48,065 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:46:48,066 [INFO]:  * Restarting with stat
+2025-09-17 14:46:48,383 [WARNING]:  * Debugger is active!
+2025-09-17 14:46:48,385 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:47:48,867 [INFO]: GET /notifications/123
+2025-09-17 14:47:48,869 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:47:48] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:47:48,870 [INFO]: GET /analytics/stats/123
+2025-09-17 14:47:48,870 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:47:48] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:47:49,131 [INFO]: GET /notifications/123
+2025-09-17 14:47:49,131 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:47:49] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:47:49,178 [INFO]: GET /analytics/stats/123
+2025-09-17 14:47:49,178 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:47:49] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:48:21,238 [INFO]: GET /analytics/stats/testuser
+2025-09-17 14:48:21,238 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:48:21] "[31m[1mGET /analytics/stats/testuser HTTP/1.1[0m" 401 -
+2025-09-17 14:50:07,754 [INFO]: GET /analytics/stats/123
+2025-09-17 14:50:07,754 [INFO]: GET /notifications/123
+2025-09-17 14:50:07,754 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:50:07] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:50:07,754 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:50:07] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:50:15,447 [INFO]: GET /notifications/123
+2025-09-17 14:50:15,447 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:50:15] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:50:15,760 [INFO]: GET /analytics/stats/123
+2025-09-17 14:50:15,761 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:50:15] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:50:31,516 [INFO]: GET /notifications/123
+2025-09-17 14:50:31,517 [INFO]: GET /analytics/stats/123
+2025-09-17 14:50:31,517 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:50:31] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:50:31,517 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:50:31] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:50:31,781 [INFO]: GET /notifications/123
+2025-09-17 14:50:31,781 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:50:31] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:50:31,829 [INFO]: GET /analytics/stats/123
+2025-09-17 14:50:31,829 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:50:31] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:50:42,973 [INFO]: GET /analytics/stats/testuser
+2025-09-17 14:50:42,973 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:50:42] "[31m[1mGET /analytics/stats/testuser HTTP/1.1[0m" 401 -
+2025-09-17 14:51:02,505 [INFO]: GET /analytics/stats/testuser
+2025-09-17 14:51:02,506 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:51:02] "[31m[1mGET /analytics/stats/testuser HTTP/1.1[0m" 403 -
+2025-09-17 14:51:29,282 [INFO]: GET /analytics/stats/testuser
+2025-09-17 14:51:29,283 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:51:29] "[31m[1mGET /analytics/stats/testuser HTTP/1.1[0m" 403 -
+2025-09-17 14:51:38,753 [INFO]: GET /analytics/stats/testuser
+2025-09-17 14:51:38,753 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:51:38] "[31m[1mGET /analytics/stats/testuser HTTP/1.1[0m" 403 -
+2025-09-17 14:52:16,304 [INFO]: GET /analytics/stats/testuser
+2025-09-17 14:52:16,305 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:52:16] "[31m[1mGET /analytics/stats/testuser HTTP/1.1[0m" 403 -
+2025-09-17 14:53:50,041 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:53:50,041 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:53:50,042 [INFO]:  * Restarting with stat
+2025-09-17 14:53:50,363 [WARNING]:  * Debugger is active!
+2025-09-17 14:53:50,365 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:54:00,664 [INFO]: GET /notifications/123
+2025-09-17 14:54:00,665 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:54:00] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:54:00,665 [INFO]: GET /analytics/stats/123
+2025-09-17 14:54:00,666 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:54:00] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:54:00,926 [INFO]: GET /notifications/123
+2025-09-17 14:54:00,927 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:54:00] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:54:00,973 [INFO]: GET /analytics/stats/123
+2025-09-17 14:54:00,974 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:54:00] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:54:21,012 [INFO]: GET /notifications/123
+2025-09-17 14:54:21,012 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:54:21] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:54:21,322 [INFO]: GET /analytics/stats/123
+2025-09-17 14:54:21,323 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:54:21] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:54:21,323 [INFO]: GET /notifications/123
+2025-09-17 14:54:21,324 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:54:21] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:54:21,633 [INFO]: GET /analytics/stats/123
+2025-09-17 14:54:21,634 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:54:21] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:54:35,524 [INFO]: GET /analytics/stats/testuser
+2025-09-17 14:54:35,525 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:54:35] "[31m[1mGET /analytics/stats/testuser HTTP/1.1[0m" 403 -
+2025-09-17 14:55:24,245 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:55:24,245 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:55:24,246 [INFO]:  * Restarting with stat
+2025-09-17 14:55:24,595 [WARNING]:  * Debugger is active!
+2025-09-17 14:55:24,598 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:55:33,074 [INFO]: GET /notifications/123
+2025-09-17 14:55:33,075 [INFO]: GET /analytics/stats/123
+2025-09-17 14:55:33,075 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:55:33] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:55:33,075 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:55:33] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:55:33,339 [INFO]: GET /notifications/123
+2025-09-17 14:55:33,340 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:55:33] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:55:33,384 [INFO]: GET /analytics/stats/123
+2025-09-17 14:55:33,385 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:55:33] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:56:19,606 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 14:56:19,606 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 14:56:19,607 [INFO]:  * Restarting with stat
+2025-09-17 14:56:19,946 [WARNING]:  * Debugger is active!
+2025-09-17 14:56:19,948 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 14:56:23,764 [INFO]: GET /notifications/123
+2025-09-17 14:56:23,766 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:56:23] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:56:24,079 [INFO]: GET /analytics/stats/123
+2025-09-17 14:56:24,080 [INFO]: GET /notifications/123
+2025-09-17 14:56:24,080 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:56:24] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:56:24,080 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:56:24] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:56:24,389 [INFO]: GET /analytics/stats/123
+2025-09-17 14:56:24,390 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:56:24] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:57:37,192 [INFO]: GET /notifications/123
+2025-09-17 14:57:37,194 [INFO]: GET /analytics/stats/123
+2025-09-17 14:57:37,194 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:57:37] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:57:37,195 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:57:37] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:57:37,457 [INFO]: GET /notifications/123
+2025-09-17 14:57:37,458 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:57:37] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:57:37,505 [INFO]: GET /analytics/stats/123
+2025-09-17 14:57:37,506 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:57:37] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:58:18,521 [INFO]: GET /notifications/123
+2025-09-17 14:58:18,521 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:58:18] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:58:18,522 [INFO]: GET /analytics/stats/123
+2025-09-17 14:58:18,522 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:58:18] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:58:18,788 [INFO]: GET /notifications/123
+2025-09-17 14:58:18,788 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:58:18] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:58:18,836 [INFO]: GET /analytics/stats/123
+2025-09-17 14:58:18,836 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:58:18] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:59:04,520 [INFO]: GET /notifications/123
+2025-09-17 14:59:04,521 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:59:04] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:59:04,820 [INFO]: GET /analytics/stats/123
+2025-09-17 14:59:04,820 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:59:04] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:59:04,823 [INFO]: GET /notifications/123
+2025-09-17 14:59:04,824 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:59:04] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:59:05,134 [INFO]: GET /analytics/stats/123
+2025-09-17 14:59:05,135 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:59:05] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:59:07,584 [INFO]: GET /notifications/123
+2025-09-17 14:59:07,585 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:59:07] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:59:07,586 [INFO]: GET /analytics/stats/123
+2025-09-17 14:59:07,586 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:59:07] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:59:07,846 [INFO]: GET /notifications/123
+2025-09-17 14:59:07,847 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:59:07] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 14:59:07,893 [INFO]: GET /analytics/stats/123
+2025-09-17 14:59:07,894 [INFO]: 127.0.0.1 - - [17/Sep/2025 14:59:07] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:00:11,431 [INFO]: GET /notifications/123
+2025-09-17 15:00:11,432 [INFO]: GET /analytics/stats/123
+2025-09-17 15:00:11,432 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:00:11] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:00:11,433 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:00:11] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:00:11,695 [INFO]: GET /notifications/123
+2025-09-17 15:00:11,696 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:00:11] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:00:11,742 [INFO]: GET /analytics/stats/123
+2025-09-17 15:00:11,743 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:00:11] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:01:19,850 [INFO]: GET /analytics/stats/testuser
+2025-09-17 15:01:19,850 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:01:19] "[31m[1mGET /analytics/stats/testuser HTTP/1.1[0m" 401 -
+2025-09-17 15:01:24,850 [INFO]: GET /analytics/stats/testuser
+2025-09-17 15:01:24,851 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:01:24] "[31m[1mGET /analytics/stats/testuser HTTP/1.1[0m" 403 -
+2025-09-17 15:01:34,102 [INFO]: GET /analytics/stats/123
+2025-09-17 15:01:34,102 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:01:34] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 403 -
+2025-09-17 15:01:59,468 [INFO]: GET /analytics/stats/123
+2025-09-17 15:01:59,468 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:01:59] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 403 -
+2025-09-17 15:02:07,835 [INFO]: GET /analytics/stats/123
+2025-09-17 15:02:07,836 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:02:07] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 403 -
+2025-09-17 15:03:08,452 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 15:03:08,452 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 15:03:08,453 [INFO]:  * Restarting with stat
+2025-09-17 15:03:08,754 [WARNING]:  * Debugger is active!
+2025-09-17 15:03:08,757 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 15:04:28,839 [INFO]: GET /notifications/123
+2025-09-17 15:04:28,840 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:04:28] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:04:28,841 [INFO]: GET /analytics/stats/123
+2025-09-17 15:04:28,842 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:04:28] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:04:29,106 [INFO]: GET /notifications/123
+2025-09-17 15:04:29,106 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:04:29] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:04:29,154 [INFO]: GET /analytics/stats/123
+2025-09-17 15:04:29,155 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:04:29] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:05:25,380 [INFO]:  * Detected change in 'C:\\Users\\jwys\\source\\repos\\FromChaosToClean\\service-python\\auth.py', reloading
+2025-09-17 15:05:25,415 [INFO]:  * Restarting with stat
+2025-09-17 15:05:25,563 [INFO]:  * Detected change in 'C:\\Users\\jwys\\source\\repos\\FromChaosToClean\\service-python\\auth.py', reloading
+2025-09-17 15:05:25,598 [INFO]:  * Restarting with stat
+2025-09-17 15:05:25,813 [WARNING]:  * Debugger is active!
+2025-09-17 15:05:25,816 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 15:05:25,976 [WARNING]:  * Debugger is active!
+2025-09-17 15:05:25,978 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 15:07:00,551 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-17 15:07:00,552 [INFO]: [33mPress CTRL+C to quit[0m
+2025-09-17 15:07:00,553 [INFO]:  * Restarting with stat
+2025-09-17 15:07:00,891 [WARNING]:  * Debugger is active!
+2025-09-17 15:07:00,895 [INFO]:  * Debugger PIN: 131-932-678
+2025-09-17 15:07:17,374 [INFO]: GET /notifications/123
+2025-09-17 15:07:17,375 [INFO]: GET /analytics/stats/123
+2025-09-17 15:07:17,375 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:17] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:17,376 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:17] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:17,643 [INFO]: GET /notifications/123
+2025-09-17 15:07:17,644 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:17] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:17,689 [INFO]: GET /analytics/stats/123
+2025-09-17 15:07:17,690 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:17] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:24,198 [INFO]: GET /notifications/123
+2025-09-17 15:07:24,199 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:24] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:24,507 [INFO]: GET /analytics/stats/123
+2025-09-17 15:07:24,507 [INFO]: GET /notifications/123
+2025-09-17 15:07:24,508 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:24] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:24,508 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:24] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:24,821 [INFO]: GET /analytics/stats/123
+2025-09-17 15:07:24,822 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:24] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:27,735 [INFO]: GET /notifications/123
+2025-09-17 15:07:27,736 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:27] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:28,040 [INFO]: GET /analytics/stats/123
+2025-09-17 15:07:28,040 [INFO]: GET /notifications/123
+2025-09-17 15:07:28,042 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:28] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:28,043 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:28] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:28,353 [INFO]: GET /analytics/stats/123
+2025-09-17 15:07:28,354 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:28] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:34,952 [INFO]: GET /notifications/123
+2025-09-17 15:07:34,954 [INFO]: GET /analytics/stats/123
+2025-09-17 15:07:34,954 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:34] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:34,955 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:34] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:35,219 [INFO]: GET /notifications/123
+2025-09-17 15:07:35,219 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:35] "[31m[1mGET /notifications/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:07:35,265 [INFO]: GET /analytics/stats/123
+2025-09-17 15:07:35,266 [INFO]: 127.0.0.1 - - [17/Sep/2025 15:07:35] "[31m[1mGET /analytics/stats/123 HTTP/1.1[0m" 401 -
+2025-09-17 15:09:45,614 [INFO]:  * Detected change in 'C:\\Users\\jwys\\source\\repos\\FromChaosToClean\\service-python\\auth.py', reloading
+2025-09-17 15:09:45,642 [INFO]:  * Restarting with stat
+2025-09-17 15:09:45,816 [INFO]:  * Detected change in 'C:\\Users\\jwys\\source\\repos\\FromChaosToClean\\service-python\\auth.py', reloading
+2025-09-17 15:09:45,843 [INFO]:  * Restarting with stat
